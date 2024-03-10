@@ -1,5 +1,4 @@
 
-
 import 'package:Nymble/CustomWidgets/gradient_containers.dart';
 import 'package:Nymble/CustomWidgets/image_card.dart';
 import 'package:Nymble/Services/player_service.dart';

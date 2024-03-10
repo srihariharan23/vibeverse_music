@@ -1,5 +1,4 @@
 
-
 import 'package:app_links/app_links.dart';
 import 'package:Nymble/APIs/spotify_api.dart';
 import 'package:Nymble/CustomWidgets/custom_physics.dart';

@@ -1,5 +1,4 @@
 
-
 import 'package:Nymble/APIs/api.dart';
 import 'package:Nymble/CustomWidgets/artist_like_button.dart';
 import 'package:Nymble/CustomWidgets/bouncy_sliver_scroll_view.dart';

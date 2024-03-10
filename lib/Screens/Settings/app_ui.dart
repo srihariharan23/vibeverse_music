@@ -1,5 +1,4 @@
 
-
 import 'package:Nymble/CustomWidgets/box_switch_tile.dart';
 import 'package:Nymble/CustomWidgets/gradient_containers.dart';
 import 'package:Nymble/CustomWidgets/textinput_dialog.dart';

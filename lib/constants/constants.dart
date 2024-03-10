@@ -1,5 +1,4 @@
 
-
 const hiveBoxes = [
   {'name': 'settings', 'limit': false},
   {'name': 'downloads', 'limit': false},

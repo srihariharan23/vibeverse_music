@@ -1,10 +1,8 @@
 
-
 import 'dart:async';
 import 'dart:io';
 import 'dart:math';
 import 'dart:ui' as ui;
-
 import 'package:audio_service/audio_service.dart';
 import 'package:Nymble/CustomWidgets/add_playlist.dart';
 import 'package:Nymble/CustomWidgets/animated_text.dart';
